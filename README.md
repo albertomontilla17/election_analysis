@@ -2,7 +2,7 @@
 
 
 ## Overview of Election Audit
- 
+
 The purpose of this project is to analyze the Colorado Congressional elections using Python, to determine a list of results from the audit. 
 
 ## Analysis and Challenges
@@ -36,4 +36,28 @@ I created a script that is capable to give us the following results:
 ### - Election Results
 
 > - **Diana DeGette** won the election, with a total votes of **272,892**
-> - In addition, **Diana DeGette** has the total percentage votes of `73.8%`  
+> - In addition, **Diana DeGette** has the total percentage votes of `73.8%`
+
+This data is reflected on the text file created by the script
+
+![Election Analysis](https://github.com/albertomontilla17/election_analysis/blob/main/Resources/election_results.csv)
+
+## Electon-Audit Summary
+
+This script is created to be used with any other election-audit in the future. I will show you how it can be used in the following images
+
+> - With the variables already created, another set of data can be loaded, and the for loop will fill the variables with the respective candidates and their  votes.
+
+![Empty variables to load](https://github.com/albertomontilla17/election_analysis/blob/main/Resources/variables.png)
+
+> - The data is going to be reflected in a text file with the name of your analysis
+
+> - The message on the text file can be modified.
+
+![Modify text](https://github.com/albertomontilla17/election_analysis/blob/main/Resources/modify_text.png)
+
+> - The variable names and the format of the numbers can be modified as well
+
+> - The number of candidates and counties would be automatically modified thanks to the for loop created on the script
+
+!(https://github.com/albertomontilla17/election_analysis/blob/main/Resources/for_loops.png) 
