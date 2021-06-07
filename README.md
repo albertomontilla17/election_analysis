@@ -40,7 +40,7 @@ I created a script that is capable to give us the following results:
 
 This data is reflected on the text file created by the script
 
-![Election Analysis](https://github.com/albertomontilla17/election_analysis/blob/main/Resources/election_results.csv)
+![Election Analysis](https://github.com/albertomontilla17/election_analysis/blob/main/Resources/election_analysis.png)
 
 ## Electon-Audit Summary
 
@@ -60,4 +60,4 @@ This script is created to be used with any other election-audit in the future. I
 
 > - The number of candidates and counties would be automatically modified thanks to the for loop created on the script
 
-!(https://github.com/albertomontilla17/election_analysis/blob/main/Resources/for_loops.png) 
+![](https://github.com/albertomontilla17/election_analysis/blob/main/Resources/for_loops.png)
