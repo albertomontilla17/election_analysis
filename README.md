@@ -1,7 +1,7 @@
 # Election_Analysis
 
 
-##Overview of Election Audit
+## Overview of Election Audit
  
 The purpose of this project is to analyze the Colorado Congressional elections using Python, to determine a list of results from the audit. 
 
